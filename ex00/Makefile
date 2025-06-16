@@ -1,4 +1,4 @@
-NAME = Template
+NAME = Easyfind
 
 CC = c++
 
