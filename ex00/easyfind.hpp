@@ -3,7 +3,7 @@
 
 # define GREEN       "\033[32m"
 # define CYAN        "\033[36m"
-# define DARK_ORANGE "\033[38;5;166m"
+# define DARK_ORANGE "\033[38m"
 # define RED         "\033[31m"
 # define GRAY        "\033[90m"
 # define YELLOW      "\033[33m"
